@@ -1,0 +1,24 @@
+title  date  time  duration
+-------------------------------------------------
+department meeting | 2021-10-29 | 930 | 15
+meeting with bob | 2021-10-29 | 830 | 15
+meeting with jim | 2021-10-29 | 900 | 15
+doctor's appointment | 2021-10-29 | 1030 | 15
+meeting with bob | 2021-10-29 | 1130 | 15
+lunch meeting with dean | 2021-10-29 | 1145 | 15
+meeting with bob | 2021-10-29 | 1330 | 15
+chair meeting | 2021-10-29 | 1430 | 15
+meeting with bob | 2021-10-29 | 1530 | 20
+fishing with donald and donald | 2021-01-29 | 814 | 115
+appointment with donald | 2021-10-29 | 2056 | 115
+appointment with fred | 2021-10-29 | 2030 | 50
+lunch | 2021-10-29 | 2258 | 115
+skiing with juedes | 2021-10-29 | 915 | 60
+
+
+
+
+
+
+
+
